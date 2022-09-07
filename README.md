@@ -1,11 +1,5 @@
 # 基于JFinal的论坛管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**论坛2** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 基于JFinal的论坛管理系统2比较简单，实现了根据回复数量显示热帖、分类查看帖子、评论帖子、板块管理和登录注册功能
@@ -44,11 +38,4 @@
 
 ![板块管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091012016.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**论坛2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
